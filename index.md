@@ -2,6 +2,4 @@
 ---
 [![All we need is a pair of pliers cover](pliers.jpg)
 Click here to purchace on Amazon!](https://www.amazon.com/Mark-Richard/dp/1631952242)
-### Markdown
-
 ---
