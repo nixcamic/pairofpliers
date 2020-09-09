@@ -1,6 +1,6 @@
 # All We Need Is A Pair Of Pliers
 
-
+[All we need is a pair of pliers cover](pliers.jpg)
 
 You can use the [editor on GitHub](https://github.com/nixcamic/pairofpliers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
