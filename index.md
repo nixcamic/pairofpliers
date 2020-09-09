@@ -13,7 +13,7 @@ audiobook.mp3
 
 ---
 
-#Introduction
+# Introduction
 
 It seemed like a good idea at the time, but I had three days in the hospital to regret it. When I was fourteen, my younger brother David was getting into a lot of trouble. Mom’s working hours were long, and we had very little supervision. He had most recently broken into a gun club and stolen beer and gunpowder. The beer was an immediate reward, but the gunpowder provided opportunities for endless enjoyment. We went to a nearby construction site and “borrowed” a truck that we used to pick up the stolen goods that were hidden in some woods near the gun club. I had very little experience driving, with most of it behind the wheel of a tractor. This two and a half-ton truck with a stick shift was a challenge for me to drive, but my experience with the tractor helped a little. I hope that the truck still had a bit of its clutch left when we returned it. 
 We needed to find a place to hide the gunpowder and knew of a dry, shallow well near the rural house we were renting in Prairie du Sac, Wisconsin. We carefully lowered it down into the well and breathed a sigh of relief when it was safely hidden. Our friends had provided dynamite fuses, and we entertained ourselves by making bombs using empty C02 cartridges. We would put wax around the fuses so they were waterproof, throw them off of the bridge going 
