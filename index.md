@@ -1,9 +1,7 @@
 # All We Need Is A Pair Of Pliers
 
-![All we need is a pair of pliers cover](pliers.jpg)
-
-You can use the [editor on GitHub](https://github.com/nixcamic/pairofpliers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+[![All we need is a pair of pliers cover](pliers.jpg)
+Click here to purchace on Amazon!](https://www.amazon.com/Mark-Richard/dp/1631952242)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
