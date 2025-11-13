@@ -7,21 +7,21 @@ Click here to purchace on Amazon!](https://www.amazon.com/Mark-Richard/dp/163195
 
 ---
 
-Listen to free samples from the audiobook:
+Listen to free samples from the audiobook
 
-Introduction
+Introduction:
 
 intro.mp3
 
-Chapter 2
+Chapter 2:
 
 ch02.mp3
 
-Chapter 14
+Chapter 14:
 
 ch14.mp3
 
-Chapter 20
+Chapter 20:
 
 ch20.mp3
 
