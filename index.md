@@ -7,7 +7,7 @@ Click here to purchace on Amazon!](https://www.amazon.com/Mark-Richard/dp/163195
 
 ---
 
-Listen to a free sample of the audiobook:
+Listen to free samples from the audiobook:
 
 Introduction
 
