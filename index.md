@@ -9,9 +9,7 @@ Click here to purchace on Amazon!](https://www.amazon.com/Mark-Richard/dp/163195
 
 Listen to a free sample of the audiobook:
 
-Introduction
-
-intro.mp3
+Introduction ![Audio](intro.mp3)
 
 Chapter 2
 
